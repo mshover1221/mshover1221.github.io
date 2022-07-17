@@ -1,3 +1,13 @@
 #pic{
-    height: 300px;
+    background: url('./images/resume_jakkapant_turasen_getty.jpg');
+    background-repeat: no-repeat;
+}
+#construction{
+    opacity: 0.75;
+    text-align: center;
+    font-weight: bold;
+    border: 10px dotted black;
+}
+#construction p{
+    color: yellow;
 }
